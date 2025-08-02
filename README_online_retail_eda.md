@@ -57,7 +57,8 @@ Each record reflects one product per invoice, including quantity, unit price, an
 
 ### 📈 Monthly Sales Trend  
 **Shows how sales evolved month-by-month across the year.**  
-🟥 `Add Image: sales trend month.png`
+
+![sales trend month](images/sales trend month.png)
 
 ---
 
@@ -65,35 +66,42 @@ Each record reflects one product per invoice, including quantity, unit price, an
 **Highlights daily sales fluctuations and peak shopping days.**  
 🟥 `Add Image: sales_trend_day.png`
 
+
+![sales_trend_day](images/sales_trend_day.png)
 ---
 
 ### ⏰ Sales by Day & Hour  
 **Reveals the most active hours and weekdays for transactions.**  
-🟥 `Add Image: sales_trend_day_hour.png`
+
+![sales_trend_day_hour](images/sales_trend_day_hour.png)
 
 ---
 
 ### 📦 Top 10 Products by Quantity  
 **Displays the ten most sold products based on volume.**  
-🟥 `Add Image: Top_10_Countries.png`
+
+![Top_10_Countries](images/Top_10_Countries.png)
 
 ---
 
 ### 💸 Total Sales Distribution  
 **Shows distribution of total purchase amounts per invoice.**  
-🟥 `Add Image: total_sales_distribution.png`
+
+![total_sales_distribution](images/total_sales_distribution.png)
 
 ---
 
 ### 🌐 Top Countries by Total Sales  
 **Visualizes countries with highest total revenue (excluding UK).**  
-🟥 `Add Image: top10country_totalsales.png`
+
+![top10country_totalsales](images/top10country_totalsales.png)
 
 ---
 
 ### 🧠 Correlation Heatmap  
 **Displays correlation between key numeric features like quantity, unit price, and total price.**  
-🟥 `Add Image: correlation.png`
+
+![correlation](images/correlation.png)
 
 ---
 
